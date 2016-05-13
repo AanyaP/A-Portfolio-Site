@@ -1,5 +1,11 @@
 Portfolio Website version 1.0 07/27/2015
 
+PROJECT LINK
+
+Check out the project by clicking the following link!
+
+http://aanyap.github.io/A-Portfolio-Site/
+
 PROJECT DESCRIPTION
 --------------------
 
